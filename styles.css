@@ -1,0 +1,78 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-pills li .nav-links {
+    color: #ffffff !important;
+}
+
+.body {
+    background-color: #327D7D !important;
+    box-sizing: border-box !important;
+    overflow-x: hidden;
+}
+
+.text-body-emphasis {
+    color: whitesmoke !important;
+}
+
+.lead {
+    color: whitesmoke !important;
+}
+
+.btn {
+    font-size: 1rem !important;
+}
+
+a {
+    color: #ffffff !important;
+}
+
+.fs-4 {
+    color: #ffffff !important;
+}
+
+
+/* Jumbotron */
+
+.jumbotron .text-body-emphasis {
+    color: #000000 !important;
+}
+
+.jumbotron .lead {
+    color: #1d252c80 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+/* Testimonial */
+
+#testimonial {
+    background-color: #ecf2f2 !important;
+    overflow-x: hidden !important;
+}
+
+.testimonial .text-body-emphasis {
+    color: #000000 !important;
+}
+
+.testimonial .lead {
+    color: #1d252c80 !important;
+}
+
+.testimonial .btn-light {
+    background-color: #327D7D !important;
+    color: whitesmoke !important;
+}
+
+.testimonial .btn-outline-light {
+    border: 1px solid #327D7D !important;
+    color: #327D7D !important;
+}
+
+
+/* footer */
+
+.foot .link-body-emphasis span {
+    color: #327D7D !important;
+}
